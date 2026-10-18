@@ -3414,7 +3414,43 @@ likely
 
 very likely
 
-### [Block 25: WTA/WTP Thaler - WTP noncertainty (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/WTA_WTP_Thaler___WTP_noncertainty_wave_4.html)
+### [Block 25: Sunk cost - no (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Sunk_cost___no_wave_4.html)
+
+- [ ] Imagine that Coffee Connection sells coffee for $1.50 per cup. Java Coffee, a competitor, sells coffee for just $2.00 per cup. Although the Coffee Connection store is ten minutes away by car, Java Coffee is only about 1/2 block from your apartment. Assuming that you only buy coffee from these two places and that you like the coffee sold in both places the same, how many of your next 20 coffee purchases would be from Java Coffee? Enter a number between 0 and 20.
+
+ID: QID181
+
+### [Block 25: Sunk cost - yes (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Sunk_cost___yes_wave_4.html)
+
+- [ ] Imagine that you just paid $50 for a Coffee Connection discount card that allows you to buy coffee for 50% off the regular price of $3.00 (i.e., you pay $1.50). Soon after you purchased the Coffee Connection discount card, Java Coffee, a competitor, opened a new store that sells coffee for just $2.00 per cup. Although the Coffee Connection store is ten minutes away by car, Java Coffee is only about 1/2 block from your apartment. Assuming that you only buy coffee from these two places and that you like the coffee sold in both places the same, how many of your next 20 coffee purchases would be from Java Coffee? Enter a number between 0 and 20.
+
+ID: QID182
+
+### [Block 26: Absolute vs. relative - calculator (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Absolute_vs__relative___calculator_wave_4.html)
+
+- [ ] Imagine that you go to purchase a calculator for $30. The calculator salesperson informs you that the calculator you wish to buy is on sale for $20 at the other branch of the store which is ten minutes away by car. Would you drive to the other store?
+
+ID: QID183
+
+Options:
+
+Yes
+
+No
+
+### [Block 26: Absolute vs. relative - jacket (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Absolute_vs__relative___jacket_wave_4.html)
+
+- [ ] Imagine that you go to purchase a jacket for $250. The jacket salesperson informs you that the jacket you wish to buy is on sale for $240 at the other branch of the store which is ten minutes away by car. Would you drive to the other store?
+
+ID: QID184
+
+Options:
+
+Yes
+
+No
+
+### [Block 27: WTA/WTP Thaler - WTP noncertainty (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/WTA_WTP_Thaler___WTP_noncertainty_wave_4.html)
 
 - [ ] Imagine that when you went to the movies last week, you were inadvertently exposed to a rare and fatal virus. The possibility of actually contracting the disease is 4 in 1,000, but once you have the illness there is no known cure. On the other hand, you can, readily and now, be given an injection that reduces the possibility of contracting the disease to 3 in 1,000. Unfortunately, these injections are only available in very small quantities and are sold to the highest bidder. What is the highest price you would be prepared to pay for such an injection?
 
@@ -3442,7 +3478,7 @@ $1,000,000
 
 $5,000,000 or more
 
-### [Block 25: WTA/WTP Thaler problem - WTP certaintly (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/WTA_WTP_Thaler_problem___WTA_certainty_wave_4.html)
+### [Block 27: WTA/WTP Thaler problem - WTP certaintly (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/WTA_WTP_Thaler_problem___WTA_certainty_wave_4.html)
 
 - [ ] Imagine that a group of research scientists in the School of Medicine are running a laboratory experiment on a vaccine for a rare and fatal virus. The possibility of actually contracting the disease from the vaccine is 1 in 1,000, but once you have the disease there is no known cure. The scientists are seeking volunteers to test the vaccine on. What is the lowest amount that you would have to be paid before you would take part in this experiment?
 
@@ -3470,7 +3506,7 @@ $1,000,000
 
 $5,000,000 or more
 
-### [Block 25: WTA/WTP Thaler problem - WTP certainty (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/WTA_WTP_Thaler_problem___WTP_certainty_wave_4.html)
+### [Block 27: WTA/WTP Thaler problem - WTP certainty (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/WTA_WTP_Thaler_problem___WTP_certainty_wave_4.html)
 
 - [ ] Imagine that when you went to the movies last week, you were inadvertently exposed to a rare and fatal virus. The possibility of actually contracting the disease is 1 in 1,000, but once you have the illness there is no known cure. On the other hand, you can, readily and now, be given an injection that stops the development of the illness. Unfortunately, these injections are only available in very small quantities and are sold to the highest bidder. What is the highest price you would be prepared to pay for such an injection? [You can get a long-term, low-interest loan if needed.]:
 
@@ -3498,7 +3534,7 @@ $1,000,000
 
 $5,000,000 or more
 
-### [Block 26: Alias Form 1 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_1_wave_4.html)
+### [Block 28: Alias Form 1 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_1_wave_4.html)
 
 - [ ] Choose between:
 
@@ -3510,7 +3546,7 @@ One million dollars for sure
 
 89% probability of one million dollars 10% probablity of five miillion dollars 1% probability of nothing
 
-### [Block 26: Alias Form 2 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_2_wave_4.html)
+### [Block 28: Alias Form 2 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_2_wave_4.html)
 
 - [ ] Choose between: 
 
@@ -3522,7 +3558,7 @@ Options:
 
 10% probablity of five miillion dollars 90% probability of nothing
 
-### [Block 27: Myside Ford (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Myside_Ford_wave_4.html)
+### [Block 29: Myside Ford (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Myside_Ford_wave_4.html)
 
 - [ ] According to a comprehensive study by the U.S. Department of Transportation, Ford Explorers are 8 times more likely than a typical family car to kill occupants of another car in a crash. The Department of Transportation in Germany is considering recommending a ban on the sale of the Ford Explorer in Germany. Do you think that Germany should ban the sale of the Ford Explorer?
 
@@ -3542,7 +3578,7 @@ yes
 
 definitely yes
 
-### [Block 27: Myside German (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Myside_German_wave_4.html)
+### [Block 29: Myside German (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Myside_German_wave_4.html)
 
 - [ ] According to a comprehensive study by the U.S. Department of Transportation, a particular German car is 8 times more likely than a typical family car to kill occupants of another car in a crash. The U.S. Department of Transportation is considering recommending a ban on the sale of this German car. Do you think that the U.S. should ban the sale of the German car?
 
@@ -3562,7 +3598,7 @@ yes
 
 definitely yes
 
-### [Block 28: Probability Matching vs maximizing - Problem 1](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Probability_matching_vs__maximizing___Problem_1_wave_4.html)
+### [Block 30: Probability Matching vs maximizing - Problem 1](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Probability_matching_vs__maximizing___Problem_1_wave_4.html)
 
 - [ ] Consider the following hypothetical situation: A deck with 10 cards is randomly shuffled 10 separate times. The 10 cards are composed of 7 cards with the number "1" on the down side and 3 cards with the number "2" on the down side. Each time the 10 cards are reshuffled, your task is to predict the number on the down side of the top card. Imagine that you will receive $100 for each downside number you correctly predict, and that you want to earn as much money as possible. What would you predict after...
 
@@ -3588,7 +3624,7 @@ shuffle #9
 
 shuffle #10
 
-### [Block 28: Probability matching vs. maximizing - Problem 2 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Probability_matching_vs__maximizing___Problem_2_wave_4.html)
+### [Block 30: Probability matching vs. maximizing - Problem 2 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Probability_matching_vs__maximizing___Problem_2_wave_4.html)
 
 - [ ] Consider the following situation: A die with 4 red faces and 2 green faces will be rolled 6 times. Before each roll you will be asked to predict which color (red or green) will show up once the die is rolled. Which color is most likely to show up after...
 
@@ -3606,7 +3642,7 @@ roll #5
 
 roll #6
 
-### [Block 29: Non-experimental heuristics and biases (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Non_experimental_heuristics_and_biases_wave_4.html)
+### [Block 31: Non-experimental heuristics and biases (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Non_experimental_heuristics_and_biases_wave_4.html)
 
 - [ ] Please rate the following technology or products from "not at all beneficial" to "extremely beneficial"
 
@@ -3687,7 +3723,7 @@ Maximum: 100
 
 Tick Interval: 10
 
-### [Block 30: Product Preferences - Pricing (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Product_Preferences___Pricing_wave_4.html)
+### [Block 32: Product Preferences - Pricing (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Product_Preferences___Pricing_wave_4.html)
 
 - [ ] You will now be asked a series of 40 questions. In each question, you will given information about a product that you may or may not decide to purchase in a store. There is no right or wrong answer. Please answer truthfully according to your preferences.
 
