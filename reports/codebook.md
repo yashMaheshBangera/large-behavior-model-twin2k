@@ -3630,7 +3630,7 @@ shuffle #10
 
 - [ ] Consider the following situation: A die with 4 red faces and 2 green faces will be rolled 6 times. Before each roll you will be asked to predict which color (red or green) will show up once the die is rolled. Which color is most likely to show up after...
 
-ID: QID2013
+ID: QID203
 
 Questions
 
