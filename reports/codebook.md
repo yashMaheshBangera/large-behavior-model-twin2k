@@ -3534,7 +3534,7 @@ $1,000,000
 
 $5,000,000 or more
 
-### [Block 27: Allias Form 1 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_1_wave_4.html)
+### [Block 27: Allais Form 1 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_1_wave_4.html)
 
 - [ ] Choose between:
 
@@ -3546,7 +3546,7 @@ One million dollars for sure
 
 89% probability of one million dollars 10% probablity of five miillion dollars 1% probability of nothing
 
-### [Block 27: Allias Form 2 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_2_wave_4.html)
+### [Block 27: Allais Form 2 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Allais_Form_2_wave_4.html)
 
 - [ ] Choose between: 
 
