@@ -3602,6 +3602,8 @@ definitely yes
 
 - [ ] Consider the following hypothetical situation: A deck with 10 cards is randomly shuffled 10 separate times. The 10 cards are composed of 7 cards with the number "1" on the down side and 3 cards with the number "2" on the down side. Each time the 10 cards are reshuffled, your task is to predict the number on the down side of the top card. Imagine that you will receive $100 for each downside number you correctly predict, and that you want to earn as much money as possible. What would you predict after...
 
+ID: QID198
+
 Questions
 
 shuffle #1
@@ -3627,6 +3629,8 @@ shuffle #10
 ### [Block 29: Probability matching vs. maximizing - Problem 2 (Wave 4)](https://digital-twin-simulation-version2.readthedocs.io/en/latest/intro/blocks/wave_4/Probability_matching_vs__maximizing___Problem_2_wave_4.html)
 
 - [ ] Consider the following situation: A die with 4 red faces and 2 green faces will be rolled 6 times. Before each roll you will be asked to predict which color (red or green) will show up once the die is rolled. Which color is most likely to show up after...
+
+ID: QID2013
 
 Questions
 
